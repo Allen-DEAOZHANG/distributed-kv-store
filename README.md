@@ -44,4 +44,4 @@ curl http://localhost:5000/kv/testkey
 ## 🧑‍💻 Author
 
 Deao Zhang  
-University of Tokyo
+Waseda University
